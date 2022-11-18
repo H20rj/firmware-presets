@@ -314,6 +314,7 @@
       "gyroflow",
       "gyros",
       "gyroscope",
+      "Harry",
       "HD",
       "HDzero",
       "Headsup",
@@ -865,6 +866,23 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/osd/Harry's_OSD.txt",
+      "hash": "1c765c89db09c04f8dbb607e8dbfe0aeb632f4e160b270c23000a5e0b4c80049",
+      "title": "Harry's OSD",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Harry",
+        "OSD",
+        "default"
+      ],
+      "author": "Harry",
       "priority": 0
     },
     {
