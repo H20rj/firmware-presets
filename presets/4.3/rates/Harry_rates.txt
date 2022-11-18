@@ -1,4 +1,4 @@
-#$ TITLE: harry rates
+#$ TITLE: Harry Rates Official
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES

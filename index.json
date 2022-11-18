@@ -151,13 +151,9 @@
     ],
     "keywords": [
       "150Hz",
-      "20ms",
-      "250Hz",
       "4S",
       "5 inch",
       "5\"",
-      "500Hz",
-      "50Hz",
       "6S",
       "actual",
       "bardwell",
@@ -261,8 +257,8 @@
     },
     {
       "fullPath": "presets/4.3/rates/Harry_rates.txt",
-      "hash": "56b48f8dedd3ccbf73fb102d3ec711004df2d77d89394a2472649aa6180ad811",
-      "title": "harry rates",
+      "hash": "2ab7a1f254a69938ea0d58014c8dff746469fb8e2d9ed775ec5dadbed63f60fa",
+      "title": "Harry Rates Official",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -279,8 +275,8 @@
     },
     {
       "fullPath": "presets/4.3/rates/Mommy_Rates.txt",
-      "hash": "78c9904e3a482a1b816f350e8418a1204d8339933b3a204607e915d4797b6132",
-      "title": "harry rates",
+      "hash": "53f4fcf8f2156d058af0d168d885ad119356667c7e7690c8159b4244cec74be4",
+      "title": "Mommy Rates Official",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -330,73 +326,6 @@
         "ELRS",
         "express",
         "150Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_250hz.txt",
-      "hash": "a7f7542d0a921ce0e1916e61985b53efbec5aef269048ed6283ab1db5c6c7b4d",
-      "title": "ExpressLRS 250Hz",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "250Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_500hz.txt",
-      "hash": "3147f8122a0ac1de06e5191f744518ee0a88bb1fe1a918dc31834874c90b3857",
-      "title": "ExpressLRS 500Hz",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "500Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_50hz.txt",
-      "hash": "343ef0679091854be116fb1e42505069d00baf1998fe9daefc83b045f027b747",
-      "title": "ExpressLRS 50Hz",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "50Hz",
-        "20ms",
         "rc",
         "rx",
         "link",
