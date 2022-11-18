@@ -5,7 +5,7 @@
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: youtube, bardwell, freestyle
 #$ AUTHOR: Harry
-#$ DESCRIPTION: 
+#$ DESCRIPTION: Contributed by the mommy
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
 set rates_type = BETALFLIGHT

@@ -6,8 +6,7 @@
 #$ KEYWORDS: youtube, bardwell, freestyle
 #$ AUTHOR: Harry
 #$ DESCRIPTION: Freestyle rates with 907 deg/sec for roll/pitch and 800 deg/sec for yaw. Relatively smooth around the sticks middle.
-#$ DESCRIPTION: I am Joshua Bardwell and you gonna learn something today!
-#$ DESCRIPTION: Joshua Bardwell - one of the most famous YouTubers in FPV. From thorough gear reviews, to tons of videos about drone building and tuning, his videos have helped get many pilots into the air. People love him for his ability to give simple explanations for difficult and technical issues in FPV.
+#$ DESCRIPTION: L rates dont use
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/94
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
