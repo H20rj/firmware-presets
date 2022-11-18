@@ -256,7 +256,7 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.3/rates/Harry_rates.txt",
+      "fullPath": "presets/4.3/rates/Harry_rate.txt",
       "hash": "2ab7a1f254a69938ea0d58014c8dff746469fb8e2d9ed775ec5dadbed63f60fa",
       "title": "Harry Rates Official",
       "firmware_version": [
@@ -274,7 +274,7 @@
       "priority": 10000
     },
     {
-      "fullPath": "presets/4.3/rates/Mommy_Rates.txt",
+      "fullPath": "presets/4.3/rates/Mommy_Rate.txt",
       "hash": "53f4fcf8f2156d058af0d168d885ad119356667c7e7690c8159b4244cec74be4",
       "title": "Mommy Rates Official",
       "firmware_version": [
