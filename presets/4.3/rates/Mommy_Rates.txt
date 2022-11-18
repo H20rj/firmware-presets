@@ -8,7 +8,7 @@
 #$ DESCRIPTION: 
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 
-set rates_type = ACTUAL
+set rates_type = BETALFLIGHT
 set roll_expo = 50
 set pitch_expo = 50
 set roll_srate = 34
