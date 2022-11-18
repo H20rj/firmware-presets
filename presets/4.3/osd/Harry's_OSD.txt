@@ -66,3 +66,4 @@ set osd_stat_total_flights = ON
 set osd_stat_total_time = ON
 set osd_stat_min_rssi_dbm = ON
 set osd_displayport_device = MSP
+set displayport_msp_serial = 2
