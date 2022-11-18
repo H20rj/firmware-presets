@@ -186,8 +186,8 @@
   "presets": [
     {
       "fullPath": "presets/4.3/filters/defaults.txt",
-      "hash": "94dd6e400f67d5bde88bf5a6952c83255db887da83dcc9b247a04ffac43f9cd2",
-      "title": "Default 4.3 Filter settings",
+      "hash": "d81e37e81cc42acbc60519aff283d5a7b3f9db71731a74e8e4c37912ed0d58b6",
+      "title": "Default Filters",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -315,8 +315,8 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_150hz.txt",
-      "hash": "8eebd45b94b2ddcb67e0a79f129294cb0a4d73a0f2e32ed9cccbdfcfaf88181a",
-      "title": "ExpressLRS 150Hz",
+      "hash": "a3c9593191eeaebc9c9208527a0faca3d0e14c3403e4049c7f24080f4b51c34b",
+      "title": "Harry's ELRS",
       "firmware_version": [
         "4.3"
       ],
@@ -337,8 +337,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/defaults.txt",
-      "hash": "78f827d0a9c615a3be454362b7bfe9751ddd981ed23cd07c0c1f79c4415dace9",
-      "title": "TUNE defaults",
+      "hash": "5775a5baaaaed85eeeb14a130943633838f666fb435468c44f47270cef489411",
+      "title": "Default betaflight tune",
       "firmware_version": [
         "4.3"
       ],
@@ -357,8 +357,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/defaults_tune_filters.txt",
-      "hash": "0e8fec5c296922e0a46e47490d8b93a75dbcdc0dec49dd3973ca355b6d0a5601",
-      "title": "Defaults: TUNE + FILTERS",
+      "hash": "b1adff2b81c9a447ed6b639917f76fd1c1be91a1a9436ff2cab0b52671ec0efb",
+      "title": "Defaults: betaflight default tune & filters",
       "firmware_version": [
         "4.3"
       ],
@@ -377,8 +377,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "e11eff91a7ec38053f58d146d2db90ee4d7f1aea39b6de5336616298095cb3b7",
-      "title": "SupaflyFPV Freestyle 5 Inch",
+      "hash": "1fc800dba8264d03aa1e44bb8bd94e49987d32824fac9118edd5f987a6fb4642",
+      "title": "Harry's Tune",
       "firmware_version": [
         "4.3"
       ],

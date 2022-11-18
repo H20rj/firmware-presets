@@ -1,4 +1,4 @@
-#$ TITLE: SupaflyFPV Freestyle 5 Inch
+#$ TITLE: Harry's Tune
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
 #$ STATUS: OFFICIAL
