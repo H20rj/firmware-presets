@@ -138,6 +138,7 @@
     ],
     "category": [
       "FILTERS",
+      "MODES",
       "OSD",
       "RATES",
       "RC_LINK",
@@ -156,10 +157,13 @@
       "5\"",
       "6S",
       "actual",
+      "adjustments",
+      "aux",
       "bardwell",
       "basic",
       "default",
       "defaults",
+      "Dogs",
       "ELRS",
       "express",
       "filter",
@@ -167,6 +171,8 @@
       "freestyle",
       "Harry",
       "link",
+      "mode",
+      "modes",
       "OSD",
       "pid",
       "rates",
@@ -179,6 +185,7 @@
       "smoothing",
       "Supafly",
       "SupaflyFPV",
+      "switch",
       "tune",
       "youtube"
     ]
@@ -202,6 +209,44 @@
       ],
       "author": "Betaflight",
       "priority": 100
+    },
+    {
+      "fullPath": "presets/4.3/modes/defaults.txt",
+      "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
+      "title": "Default 4.3 Modes and Adjustment settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/Harry's Modes.txt",
+      "hash": "104e6b500c64a282a404daf851be95d8f1da3358f1fcdb0fbd7e5c0896a54576",
+      "title": "Default 4.3 Modes and Adjustment settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "Harry",
+        "Dogs",
+        "Modes"
+      ],
+      "author": "Harry",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.3/osd/defaults.txt",

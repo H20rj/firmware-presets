@@ -1,0 +1,15 @@
+#$ TITLE: Default 4.3 Modes and Adjustment settings
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: Harry, Dogs, Modes
+#$ AUTHOR: Harry
+#$ DESCRIPTION: Arm, Beeper, Turtle, FM
+# aux switch settings
+
+aux 0 0 0 1925 2100 0 0
+aux 1 1 1 925 1150 0 0
+aux 2 13 2 1700 2100 0 0
+aux 3 35 3 1700 2100 0 0
+
+
