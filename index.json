@@ -146,9 +146,8 @@
     ],
     "author": [
       "Betaflight",
-      "ctzsnooze",
       "Harry",
-      "SupaflyFPV"
+      "Mommy"
     ],
     "keywords": [
       "150Hz",
@@ -233,13 +232,13 @@
     },
     {
       "fullPath": "presets/4.3/modes/Harry's Modes.txt",
-      "hash": "104e6b500c64a282a404daf851be95d8f1da3358f1fcdb0fbd7e5c0896a54576",
-      "title": "Default 4.3 Modes and Adjustment settings",
+      "hash": "cd673d3dfa1318ce1475e4334f01d667879365587beed606d7a621f817f83c48",
+      "title": "Harry's Modes",
       "firmware_version": [
         "4.3"
       ],
       "category": "MODES",
-      "status": "COMMUNITY",
+      "status": "EXPERIMENTAL",
       "keywords": [
         "Harry",
         "Dogs",
@@ -267,13 +266,13 @@
     },
     {
       "fullPath": "presets/4.3/osd/Harry's_OSD.txt",
-      "hash": "cad71467d33e830b1410f25cb2c8fad295dd23738ceb9c1106f922edd8f83377",
+      "hash": "0e923fa64ac1a853cfcced22ac71b84224fd91bdaa2cc46c67b3a231a8962bc1",
       "title": "Harry's OSD",
       "firmware_version": [
         "4.3"
       ],
       "category": "OSD",
-      "status": "COMMUNITY",
+      "status": "EXPERIMENTAL",
       "keywords": [
         "Harry",
         "OSD",
@@ -302,14 +301,14 @@
     },
     {
       "fullPath": "presets/4.3/rates/Harry_rate.txt",
-      "hash": "858676c3c4771787facfdde1bf646de9b87386fe9c51e98a9eadf7f818c6d12f",
+      "hash": "f624ac2aa7659fa450c915540c01c8101468e7819f97030f4480bb700d847acb",
       "title": "Harry Rates Official",
       "firmware_version": [
         "4.3",
         "4.4"
       ],
       "category": "RATES",
-      "status": "COMMUNITY",
+      "status": "EXPERIMENTAL",
       "keywords": [
         "youtube",
         "bardwell",
@@ -320,20 +319,20 @@
     },
     {
       "fullPath": "presets/4.3/rates/Mommy_Rate.txt",
-      "hash": "8277e917b0bd72a45c8743657d0e30f4221b85447c419fffac338567ea30bee8",
+      "hash": "df7b8bafa52512c776710527e9007f56f114b642fc7b47a17504e0491357a9de",
       "title": "Mommy Rates Official",
       "firmware_version": [
         "4.3",
         "4.4"
       ],
       "category": "RATES",
-      "status": "COMMUNITY",
+      "status": "EXPERIMENTAL",
       "keywords": [
         "youtube",
         "bardwell",
         "freestyle"
       ],
-      "author": "Harry",
+      "author": "Mommy",
       "priority": 10000
     },
     {
@@ -360,13 +359,13 @@
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_150hz.txt",
-      "hash": "a3c9593191eeaebc9c9208527a0faca3d0e14c3403e4049c7f24080f4b51c34b",
+      "hash": "498819d57f49d52c9aee0a364a660b86f0d9d283e0c43aeb75aa2a6392a37d42",
       "title": "Harry's ELRS",
       "firmware_version": [
         "4.3"
       ],
       "category": "RC_LINK",
-      "status": "OFFICIAL",
+      "status": "EXPERIMENTAL",
       "keywords": [
         "ELRS",
         "express",
@@ -376,7 +375,7 @@
         "link",
         "smoothing"
       ],
-      "author": "ctzsnooze",
+      "author": "Harry",
       "force_options_review": true,
       "priority": 10000000000
     },
@@ -422,13 +421,13 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "1fc800dba8264d03aa1e44bb8bd94e49987d32824fac9118edd5f987a6fb4642",
+      "hash": "490d6165cbd6e8ba6ed906f819e0c99257bf9ecd4175c01e0c58f6a9462dfca5",
       "title": "Harry's Tune",
       "firmware_version": [
         "4.3"
       ],
       "category": "TUNE",
-      "status": "OFFICIAL",
+      "status": "EXPERIMENTAL",
       "keywords": [
         "Supafly",
         "SupaflyFPV",
@@ -438,7 +437,7 @@
         "5 inch",
         "5\""
       ],
-      "author": "SupaflyFPV",
+      "author": "Harry",
       "priority": 1000000000000
     }
   ]

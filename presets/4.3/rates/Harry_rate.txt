@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
-#$ STATUS: COMMUNITY
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: youtube, bardwell, freestyle
 #$ AUTHOR: Harry
 #$ DESCRIPTION: Freestyle rates with 907 deg/sec for roll/pitch and 800 deg/sec for yaw. Relatively smooth around the sticks middle.

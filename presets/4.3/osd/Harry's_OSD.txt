@@ -1,7 +1,7 @@
 #$ TITLE: Harry's OSD
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: OSD
-#$ STATUS: COMMUNITY
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: Harry, OSD, default
 #$ AUTHOR: Harry
 #$ DESCRIPTION: General OSD for dji wtfos

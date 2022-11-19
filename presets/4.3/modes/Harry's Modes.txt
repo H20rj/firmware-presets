@@ -1,7 +1,7 @@
-#$ TITLE: Default 4.3 Modes and Adjustment settings
+#$ TITLE: Harry's Modes
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
-#$ STATUS: COMMUNITY
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: Harry, Dogs, Modes
 #$ AUTHOR: Harry
 #$ DESCRIPTION: Arm, Beeper, Turtle, FM

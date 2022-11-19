@@ -1,9 +1,9 @@
 #$ TITLE: Harry's ELRS
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: RC_LINK
-#$ STATUS: OFFICIAL
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: ELRS, express, 150Hz, rc, rx, link, smoothing
-#$ AUTHOR: ctzsnooze
+#$ AUTHOR: Harry
 #$ DESCRIPTION: RC link settings for a 150Hz ELRS link via CRSF.
 #$ DESCRIPTION: WARNING: make ABSOLUTELY SURE that the OpenTx or EdgeTx Hardware ADC Filter is un-checked!
 #$ DESCRIPTION: WARNING: check that you are using a compatible version of EdgeTx or OpenTx!

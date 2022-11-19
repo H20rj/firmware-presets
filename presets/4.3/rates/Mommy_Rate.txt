@@ -2,9 +2,9 @@
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: RATES
-#$ STATUS: COMMUNITY
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: youtube, bardwell, freestyle
-#$ AUTHOR: Harry
+#$ AUTHOR: Mommy
 #$ DESCRIPTION: Contributed by the mommy
 #$ INCLUDE: presets/4.3/rates/defaults.txt
 

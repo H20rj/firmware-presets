@@ -1,9 +1,9 @@
 #$ TITLE: Harry's Tune
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: TUNE
-#$ STATUS: OFFICIAL
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: Supafly, SupaflyFPV, 4S, 6S, Freestyle, 5 inch, 5"
-#$ AUTHOR: SupaflyFPV
+#$ AUTHOR: Harry
 #$ DESCRIPTION: SupaflyFPV Community Freestyle Preset for 5 Inch Builds
 #$ DESCRIPTION:
 #$ DESCRIPTION: Select the option for your build with or without HD camera (eg GoPro) as the baseline.
