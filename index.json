@@ -421,8 +421,8 @@
     },
     {
       "fullPath": "presets/4.3/tune/SupaflyFPV_Freestyle_5_Inch_EasyTune.txt",
-      "hash": "98804fca96a1303b370df5359e1004ba9aa19067ecf7cd1205c1ddcd8c649a1f",
-      "title": "Harry's Tune",
+      "hash": "fa52962a7fced71ebc991b0342b58159872af1f2bbd333d21f62b4fd6f29cb10",
+      "title": "Harry's Tune :: TURN LPF2 OFF!",
       "firmware_version": [
         "4.3"
       ],
