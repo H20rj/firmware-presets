@@ -137,6 +137,7 @@
       "4.4"
     ],
     "category": [
+      "BNF",
       "FILTERS",
       "MODES",
       "OSD",
@@ -277,6 +278,21 @@
         "Harry",
         "OSD",
         "default"
+      ],
+      "author": "Harry",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/Harry's Common Setting.txt",
+      "hash": "e238bdad1239ef3612bed0ee0c603306dd38e61e18f2136fcd1a3f9616126b8c",
+      "title": "Harry's Common Settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "BNF",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "dogs"
       ],
       "author": "Harry",
       "priority": 0
