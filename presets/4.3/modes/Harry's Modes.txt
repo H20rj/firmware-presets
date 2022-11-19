@@ -1,4 +1,4 @@
-#$ TITLE: Harry's Modes
+#$ TITLE: Harry's Modes adn cameron
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
 #$ STATUS: EXPERIMENTAL
