@@ -68,7 +68,7 @@ set dyn_notch_max_hz = 800
 
 
 
-#$ OPTION BEGIN (UNCHECKED): 6s Lipo with HD Cam (1750 - 1950kv motors)
+#$ OPTION BEGIN (CHECKED): 6s Lipo with HD Cam (1750 - 1950kv motors)
 
 # -- Sliders --
 
