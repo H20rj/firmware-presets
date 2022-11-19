@@ -147,19 +147,14 @@
     ],
     "author": [
       "Betaflight",
-      "ctzsnooze",
       "Harry",
       "Mommy"
     ],
     "keywords": [
       "150Hz",
-      "20ms",
-      "250Hz",
       "4S",
       "5 inch",
       "5\"",
-      "500Hz",
-      "50Hz",
       "6S",
       "actual",
       "adjustments",
@@ -377,95 +372,6 @@
       ],
       "author": "Betaflight",
       "priority": 0
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_150hz.txt",
-      "hash": "8eebd45b94b2ddcb67e0a79f129294cb0a4d73a0f2e32ed9cccbdfcfaf88181a",
-      "title": "ExpressLRS 150Hz",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "150Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_250hz.txt",
-      "hash": "a7f7542d0a921ce0e1916e61985b53efbec5aef269048ed6283ab1db5c6c7b4d",
-      "title": "ExpressLRS 250Hz",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "250Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_500hz.txt",
-      "hash": "3147f8122a0ac1de06e5191f744518ee0a88bb1fe1a918dc31834874c90b3857",
-      "title": "ExpressLRS 500Hz",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "500Hz",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
-    },
-    {
-      "fullPath": "presets/4.3/rc_link/elrs_50hz.txt",
-      "hash": "90999785ef0ec2a9477f7daad3116a006297c92859c98b47e61bf0c5e82aff91",
-      "title": "Harry's ELRS AIO",
-      "firmware_version": [
-        "4.3"
-      ],
-      "category": "RC_LINK",
-      "status": "OFFICIAL",
-      "keywords": [
-        "ELRS",
-        "express",
-        "50Hz",
-        "20ms",
-        "rc",
-        "rx",
-        "link",
-        "smoothing"
-      ],
-      "author": "ctzsnooze",
-      "force_options_review": true,
-      "priority": 10000000000
     },
     {
       "fullPath": "presets/4.3/rc_link/elrs_original.txt",
