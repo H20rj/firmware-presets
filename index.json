@@ -298,6 +298,21 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/rates/Daddy Rates.txt",
+      "hash": "eb755bbbc654596a181674bca81f66ba5c748f4025bb34d13703bd86a4439850",
+      "title": "Daddy Rates",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "dogs"
+      ],
+      "author": "Harry",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.3/rates/defaults.txt",
       "hash": "3eb0eebc69558dcb5de2e985850026a0ca4b0634601f4b66c0f4ea36b2e17f91",
       "title": "Default rates",
