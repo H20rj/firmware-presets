@@ -332,7 +332,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/Harry_rate.txt",
-      "hash": "f624ac2aa7659fa450c915540c01c8101468e7819f97030f4480bb700d847acb",
+      "hash": "f9928286fad4aa77d7185c75ec39a8f32a5bf6c00473ca8a795caa060b1cb003",
       "title": "Harry Rates Official",
       "firmware_version": [
         "4.3",
@@ -341,9 +341,7 @@
       "category": "RATES",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "youtube",
-        "bardwell",
-        "freestyle"
+        "dogs"
       ],
       "author": "Harry",
       "priority": 10000
