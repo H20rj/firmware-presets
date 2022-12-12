@@ -268,10 +268,11 @@
     },
     {
       "fullPath": "presets/4.3/osd/Harry's_OSD.txt",
-      "hash": "0e923fa64ac1a853cfcced22ac71b84224fd91bdaa2cc46c67b3a231a8962bc1",
+      "hash": "6067a78b5792ab0afa0c75e7d05783f1e25695ca36c0c3d3dfec81495913415f",
       "title": "Harry's OSD",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4"
       ],
       "category": "OSD",
       "status": "EXPERIMENTAL",
