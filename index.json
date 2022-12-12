@@ -233,10 +233,11 @@
     },
     {
       "fullPath": "presets/4.3/modes/Harry's Modes.txt",
-      "hash": "cd673d3dfa1318ce1475e4334f01d667879365587beed606d7a621f817f83c48",
+      "hash": "cd2f8ac46a1cc90378edb72bca18628becbdb33047e6a2eafb60d757305c6d4c",
       "title": "Harry's Modes",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4"
       ],
       "category": "MODES",
       "status": "EXPERIMENTAL",
